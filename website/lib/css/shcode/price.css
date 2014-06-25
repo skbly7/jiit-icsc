@@ -1,0 +1,48 @@
+/*Pricing box*/
+.container-price-cols input[type="button"] { margin-top:20px; }
+.pricing_box  { border: 1px solid #ccc; float: left; text-align: center; padding: 0 0 20px 0; margin-left:-1px; margin-top:30px; box-shadow: 0 2px 10px -4px rgba(0, 0, 0, 0.5); -moz-box-shadow: 0 2px 10px -4px rgba(0, 0, 0, 0.5); background: #fff;}
+.pricing_box div { padding-left:20px; padding-right:20px; }
+.pricing_box.radius-left { -webkit-border-top-left-radius: 5px; border-top-left-radius: 5px; -moz-border-top-left-radius: 5px; -webkit-border-bottom-left-radius: 5px; border-bottom-left-radius: 5px; -moz-border-bottom-left-radius: 5px;}
+.pricing_box.radius-right { -webkit-border-top-right-radius: 5px; border-top-right-radius: 5px; -moz-border-top-right-radius: 5px; -webkit-border-bottom-right-radius: 5px; border-bottom-right-radius: 5px; -moz-border-bottom-right-radius: 5px;}
+.pricing_box .header  { text-shadow: 0 1px 1px #fff; border-bottom: 1px solid #ccc; background: url(/../wp-content/themes/evento/lib/images/price.bg.png) repeat; -webkit-border-top-right-radius: 5px; border-top-right-radius: 5px; -moz-border-top-right-radius: 5px; -webkit-border-top-left-radius: 5px; border-top-left-radius: 5px; -moz-border-top-left-radius: 5px;}
+.pricing_box .header { width: 100%; padding:0px; height: 68px; }
+.pricing_box .header span { position: relative; top: 12px; font-size: 16px; font-weight: bold; line-height: 28px;}
+.pricing_box .header span.info { position: relative; font-size: 12px; font-weight: normal; top: 2px; display: block; color: gray; }
+.pricing_box p { margin: 10px 0; line-height: 28px;}
+.pricing_box ul { list-style: none; margin: 0 0 0px 0; text-align: left;}
+.pricing_box div.add-options { margin:0 0 15px 0; text-align:left; }
+.pricing_box.two { width: 49.8%; }
+.pricing_box.three  { width: 33%; }
+.pricing_box.four { width: 24.8%; font-size: 1em; }
+.pricing_box.five { width: 19.5%; font-size: 0.9em;}
+.pricing_box ul li { line-height: 1em; padding: 10px 20px 10px 20px;}
+.pricing_box ul li span span { float:right; margin-right:10px; }
+.pricing_box ul li.odd { background: #F9F9F9;}
+.pricing_box ul li.even { background: #fff;}
+.pricing_box strong { background: url(/../wp-content/themes/evento/lib/images/price.sprite.png) no-repeat 0 -9999px; height: 12px; padding-left: 20px; font-style: normal; color: gray; }
+.pricing_box strong.no { background-position: 0 0;}
+.pricing_box strong.yes { background-position: 0 -15px;}
+.pricing_box strong.single { background-position: 0 -30px; }
+.pricing_box strong.unlim { background-position: 0 -45px; }
+.pricing_box strong.more{ background: url(/../wp-content/themes/evento/lib/images/price.more.png) no-repeat 0 0; height: 20px; width: 20px; cursor: pointer; float: right; padding: 0; margin: 14px 14px 0 0;}
+.pricing_box strong.nopad { padding: 0;}
+.pricing_box h3{ margin: 16px 0 0 0; font-size: 24px;}
+.pricing_box h3 em{ font-size: 12px; font-weight: normal;}
+.pricing_box span.priceinfo { display: block; color: gray; margin-bottom: 10px; font-size: 11px;}
+
+.pricing_box.large { position: relative; z-index: 9; margin-top: -20px; -moz-box-shadow: 0 1px 10px #cbcbcb; -webkit-box-shadow: 0 1px 10px #cbcbcb; box-shadow: 0px 1px 10px #cbcbcb; padding: 0 0 40px 0; border-radius: 5px;}
+.pricing_box.large .header { color: #303E0E; text-shadow:0 1px 0 #C7DD90; height: 88px; background: url(images/price.bg.signup.png) repeat; border-bottom: 1px solid #b2d850;}
+.pricing_box.large .header  span{ top: 24px; }
+.pricing_box.large .header  span.info{ top: 14px; color: #576e1f; text-shadow:none; }
+
+.pricing_box p.button { height: 40px; background: url("/../wp-content/themes/evento/lib/images/price.readmore.png") no-repeat right -40px;}
+.pricing_box p.button a { font-weight: bold; font-size: 14px; padding: 0 18px 0 30px; line-height: 40px; background: url("/../wp-content/themes/evento/lib/images/price.readmore.png") no-repeat left 0;}
+
+.pricing_box p.button:hover {background-position:right -120px;}
+.pricing_box p.button a:hover{background-position:left -80px;}
+
+.pricing_box p.button.signup { background-position:right -200px;}
+.pricing_box p.button.signup a{ background-position:left -160px; padding: 0 48px 0 60px; color: #303E0E; text-shadow:0 1px 0 #C7DD90; }
+
+.pricing_box p.button.signup:hover { background-position:right -280px;}
+.pricing_box p.button.signup a:hover{ background-position:left -240px; }

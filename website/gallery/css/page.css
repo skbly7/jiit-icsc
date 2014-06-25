@@ -1,0 +1,42 @@
+﻿nav ul {
+    list-style: none;         
+    text-align: left;        
+    padding: 5px 0;       
+    margin: 0; 
+    font-size: 0;           
+}
+nav ul li { 
+    display: block;
+	float:left;
+}
+nav ul li a {
+    text-decoration: none;      
+    display: inline-block;     
+    color: #777; 
+    padding: 10px;         
+    margin: 0 3px;          
+    font-size: 16px; 
+	transition:background 1s;	
+	text-shadow: 1px 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff;
+	color:black;
+}
+nav ul li a:hover {
+     -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+	background-color: rgba(222,184,135,0.4);
+}
+#special:hover{
+background:white;
+}
+#special:hover .sub-menu{
+background:white;
+width:150px;
+}
+.sub-menu li{
+list-style-image: url('../images/arrow.png');
+width:100%;
+text-align:center;
+border-width: 0.35em 0 0.35em 0.45em;
+}

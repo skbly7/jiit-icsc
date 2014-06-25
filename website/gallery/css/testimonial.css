@@ -1,0 +1,210 @@
+
+@slidesCount: 5; 
+@showSlideDuration: 5; 
+@transitionDuration: 1; 
+
+@cycleDuration : (@slidesCount * (@showSlideDuration) * 1s);
+@fadeup: percentage(@transitionDuration / @cycleDuration + 0.0001); 
+@showuntil: percentage((@cycleDuration / @slidesCount) / @cycleDuration); 
+@fadedown: @showuntil + @fadeup;
+
+.tsl-fade-in-out-mixin() when (isnumber(@slidesCount)) and (@slidesCount > 1) and (@slidesCount < 16) {
+	
+	/* hide items from second */
+	.tsl-item + .tsl-item {
+		opacity:0;
+	}
+	
+	/* for safety: disable all extra items that  */	
+	@nOffset: @slidesCount + 1;
+	@nselector: e("n+@{nOffset}");
+	.tsl-item:nth-child(@nselector) {
+		display: none;
+	}
+
+	/* animation begin */
+	
+	/* animation shift on each slide */
+	.tsl-item:nth-child(2) {
+		animation-delay: ((@cycleDuration - 1 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(3) {
+		animation-delay: ((@cycleDuration - 2 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(4) {
+		animation-delay: ((@cycleDuration - 3 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(5) {
+		animation-delay: ((@cycleDuration - 4 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(6) {
+		animation-delay: ((@cycleDuration - 5 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(7) {
+		animation-delay: ((@cycleDuration - 6 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(8) {
+		animation-delay: ((@cycleDuration - 7 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(9) {
+		animation-delay: ((@cycleDuration - 8 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(10) {
+		animation-delay: ((@cycleDuration - 9 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(11) {
+		animation-delay: ((@cycleDuration - 10 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(12) {
+		animation-delay: ((@cycleDuration - 11 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(13) {
+		animation-delay: ((@cycleDuration - 12 * @showSlideDuration) * -1s);
+	}
+	.tsl-item:nth-child(14) {
+		animation-delay: ((@cycleDuration - 13 * @showSlideDuration) * -1s);
+	}							
+	.tsl-item:nth-child(15) {
+		animation-delay: ((@cycleDuration - 14 * @showSlideDuration) * -1s);
+	}
+	
+	@keyframes tsl-fade-in-out {
+		0% {
+			opacity:0;
+			z-index:2;
+		}
+		(@fadeup) {
+			opacity:1;
+			z-index:2;
+		}
+		(@showuntil) {
+			opacity:1;
+		  z-index:1;
+		}
+		(@fadedown) {
+			opacity:0;
+			z-index:1;
+		}
+		100% {
+			opacity:0;
+		  z-index:1;
+		}
+	}
+	
+	/* pause on hover */
+	.tsl-list:hover .tsl-item {
+		animation-play-state:paused;
+	}
+
+	
+}
+.tsl-fade-in-out-mixin() {
+	/* animation disabled */
+}
+//end of mixins
+
+/* testimonials slider geometry */
+.tsl {
+	border:1px solid;
+	padding:1em;
+}
+.tsl-list {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position:relative;
+}
+/* clearfix */
+.tsl-list:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+} 
+.tsl-list {
+	display: inline-block;
+}
+html[xmlns] .tsl-list {
+	display: block;
+}
+* html .tsl-list {
+	height: 1%;
+}
+.tsl-item {
+	position:relative;
+	top:0;
+	left:100%;
+	margin-left:-100%;
+	width:100%;
+	float:left;
+	animation: tsl-fade-in-out @cycleDuration infinite;
+	animation-play-state:running;
+}
+
+.tsl-fade-in-out-mixin();
+
+/* testimonials theme */
+.tsl {
+	text-align: left;
+	background-color: #FFF;
+	padding: 1.7em 2em;
+	margin-bottom: 2em;
+	border: none;
+	border-radius: 3px;
+	box-shadow:
+		1px 30px 30px -30px hsla(220,20%,50%,0.5),
+		1px 40px 15px -40px hsla(220,20%,30%,0.5),
+		inset 0 -1px 0 0px #bdbdc6,
+		inset 0 0px 0 1px #e0e0ef,
+		inset 0 2px 0 0 #FFF,
+		inset 0 0 90px 0 #f0f0ff;
+}
+.tsl-content {
+	font:italic 14px/1.4 Georgia;
+	color: #00013d;
+	text-shadow: 0 1px 0px #FFF;
+}
+.tsl-content:before {
+	content: '\201C';
+	position: absolute;
+	margin-left: -0.7em;
+}
+.tsl-content *:last-child:after {
+	content: '\201D';
+	margin-left: 0.2em;
+}
+.tsl-content p {
+	margin-top:0;
+}
+.tsl-meta {
+	font: 12px/1.4 Arial;
+	text-align:right;
+	color: #666;
+	position: relative;
+}
+.tsl-meta a {
+	color: #4f84ef;
+}
+.tsl-meta p {
+	margin-bottom:0;
+}
+
+/* this page styles */
+html, body {
+	height: 100%;
+}
+.outer-1 {
+	display: table;
+	height: 100%;
+	background: url(http://subtlepatterns.com/patterns/light_wool.png);
+}
+.outer-2 {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.container {
+	display: inline-block;
+}

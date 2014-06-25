@@ -1,0 +1,5 @@
+ErrorDocument 400 /jiit/icsc/error.php
+ErrorDocument 401 /jiit/icsc/error.php
+ErrorDocument 403 /jiit/icsc/error.php
+ErrorDocument 404 /jiit/icsc/error.php
+ErrorDocument 500 /jiit/icsc/error.php

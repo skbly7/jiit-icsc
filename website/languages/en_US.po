@@ -1,0 +1,2328 @@
+# Copyright (C) 2010 Evento
+# This file is distributed under the same license as the Evento package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Evento 0.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/evento\n"
+"POT-Creation-Date: 2011-09-06 08:36:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: loop-404.php:7
+msgid "Error 404, page, post or resource can not be found"
+msgstr ""
+
+#: loop-404.php:9
+msgid "Sorry, no post found"
+msgstr ""
+
+#: loop-404.php:22
+msgid ""
+"We apologize but this page, post or resource does not exist or can not be "
+"found. Perhaps it is necessary to change the call method to this page, post "
+"or resource."
+msgstr ""
+
+#: tag.php:8
+msgid "tags archives: "
+msgstr ""
+
+#: tag.php:68 index.php:67 archive_custom.php:44 author.php:86 category.php:68
+#: search.php:41 lib/php/shcode.class.php:210 lib/php/shcode.class.php:262
+#: lib/php/shcode.class.php:313 lib/php/shcode.class.php:382
+#: lib/php/shcode.class.php:469 lib/php/shcode.class.php:522 archive.php:111
+msgid "Continue reading"
+msgstr ""
+
+#: post-meta-top.php:4
+msgid "at"
+msgstr ""
+
+#: post-meta-top.php:5 comments.php:48
+msgid "Edit"
+msgstr ""
+
+#: index.php:8
+msgid "Blog Page"
+msgstr ""
+
+#: page.php:23
+msgid ""
+"This is the list of the upcoming events. Please register as guest for the "
+"desired conference."
+msgstr ""
+
+#: single-speaker.php:72
+msgid "'s details"
+msgstr ""
+
+#: single-speaker.php:75 lib/php/resources.register.php:629
+msgid "Country"
+msgstr ""
+
+#: single-speaker.php:76 lib/php/resources.register.php:305
+#: lib/php/resources.register.php:630
+msgid "Region"
+msgstr ""
+
+#: single-speaker.php:77
+msgid "Studies"
+msgstr ""
+
+#: single-speaker.php:78
+msgid "University"
+msgstr ""
+
+#: single-speaker.php:79 lib/php/shcode.class.php:19
+#: lib/php/shcode.class.php:24 lib/php/resources.register.php:633
+msgid "Email"
+msgstr ""
+
+#: single-speaker.php:103
+msgid "'s presentations"
+msgstr ""
+
+#: pagination.php:18
+msgid "&laquo; Previous"
+msgstr ""
+
+#: pagination.php:19
+msgid "Next &raquo;"
+msgstr ""
+
+#: slideshow.php:110
+msgid "presentation"
+msgstr ""
+
+#: slideshow.php:112
+msgid "presentations"
+msgstr ""
+
+#: slideshow.php:126
+msgid "speaker"
+msgstr ""
+
+#: slideshow.php:128
+msgid "speakers"
+msgstr ""
+
+#: slideshow.php:135
+msgid "guest"
+msgstr ""
+
+#: slideshow.php:137
+msgid "guests"
+msgstr ""
+
+#: slideshow.php:143
+msgid "Location"
+msgstr ""
+
+#: slideshow.php:245
+msgid "Read more"
+msgstr ""
+
+#: related-posts.php:47
+msgid "Related Conferences"
+msgstr ""
+
+#: related-posts.php:67
+msgid "Related Presentations"
+msgstr ""
+
+#: related-posts.php:100
+msgid "Similar Speakers"
+msgstr ""
+
+#: related-posts.php:134
+msgid "Other guests"
+msgstr ""
+
+#: related-posts.php:171
+msgid "Related Posts"
+msgstr ""
+
+#: archive_custom.php:19 lib/php/shcode.class.php:364
+msgid "testimonial"
+msgstr ""
+
+#: author-box.php:10
+msgid "About"
+msgstr ""
+
+#: author.php:17
+msgid "Author Archives: %s"
+msgstr ""
+
+#: comments.php:24
+msgid "%1$s "
+msgstr ""
+
+#: comments.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:48
+msgid "Pingback"
+msgstr ""
+
+#: comments.php:64
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:83 lib/php/widget/latest_posts.php:56
+msgid "Comment"
+msgstr ""
+
+#: comments.php:83 lib/php/widget/latest_posts.php:58
+msgid "Comments"
+msgstr ""
+
+#: comments.php:129
+msgid "Your Name *"
+msgstr ""
+
+#: comments.php:131
+msgid "Your Email *"
+msgstr ""
+
+#: comments.php:133
+msgid "Website"
+msgstr ""
+
+#: comments.php:138
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:140
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:141
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:141
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:141
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:144
+msgid "Add Comment"
+msgstr ""
+
+#: category.php:8
+msgid "category archives: "
+msgstr ""
+
+#: front-page.php:38 lib/php/conference.class.php:5
+msgid "continue reading"
+msgstr ""
+
+#: front-page.php:43 lib/php/my_account.class.php:210
+msgid "Sorry, no conferences found"
+msgstr ""
+
+#: search.php:8
+msgid "Search results"
+msgstr ""
+
+#: search.php:52 lib/php/extra.class.php:228
+msgid "Sorry, no results found."
+msgstr ""
+
+#: search.php:63
+msgid "Unfortunately we did not find any results for your request."
+msgstr ""
+
+#: lib/php/meta.class.php:86
+msgid "Video player loads here."
+msgstr ""
+
+#: lib/php/meta.class.php:206
+msgid "To change attachment click on the icon"
+msgstr ""
+
+#: lib/php/meta.class.php:636 lib/php/meta.class.php:637
+#: lib/php/meta.class.php:664 lib/php/meta.class.php:665
+#: lib/php/meta.class.php:712 lib/php/meta.class.php:713
+msgid "Edit post"
+msgstr ""
+
+#: lib/php/contact.class.php:11
+msgid "error, fill all required fields ( name )"
+msgstr ""
+
+#: lib/php/contact.class.php:20
+msgid "error, fill all required fields ( email )"
+msgstr ""
+
+#: lib/php/contact.class.php:27
+msgid "Contact name: "
+msgstr ""
+
+#: lib/php/contact.class.php:30
+msgid "Contact email: "
+msgstr ""
+
+#: lib/php/contact.class.php:33
+msgid "Contact phone: "
+msgstr ""
+
+#: lib/php/contact.class.php:41
+msgid "error, fill all required fields ( message )"
+msgstr ""
+
+#: lib/php/contact.class.php:50
+msgid "New email from"
+msgstr ""
+
+#: lib/php/contact.class.php:50
+msgid "Sent via contact form."
+msgstr ""
+
+#: lib/php/contact.class.php:52
+msgid "Email sent successfully "
+msgstr ""
+
+#: lib/php/contact.class.php:54
+msgid "error, sending email failed"
+msgstr ""
+
+#: lib/php/contact.class.php:65
+msgid "Your name"
+msgstr ""
+
+#: lib/php/contact.class.php:68 lib/php/widget/contact.php:27
+msgid "Your email"
+msgstr ""
+
+#: lib/php/contact.class.php:71
+msgid "Message"
+msgstr ""
+
+#: lib/php/contact.class.php:74
+msgid "Submit form"
+msgstr ""
+
+#: lib/php/main.php:195 lib/php/main.php:466
+msgid "Status: "
+msgstr ""
+
+#: lib/php/main.php:519 lib/php/menu.class.php:219 lib/php/menu.class.php:223
+msgid "Home"
+msgstr ""
+
+#: lib/php/main.php:539
+msgid "Archive by category"
+msgstr ""
+
+#: lib/php/main.php:593
+msgid "Search results for"
+msgstr ""
+
+#: lib/php/main.php:596
+msgid "Posts tagged"
+msgstr ""
+
+#: lib/php/main.php:601
+msgid "Articles posted by "
+msgstr ""
+
+#: lib/php/main.php:604
+msgid "Error 404"
+msgstr ""
+
+#: lib/php/main.php:609
+msgid "Page"
+msgstr ""
+
+#: lib/php/main.php:614
+msgid "Blog"
+msgstr ""
+
+#: lib/php/my_account.class.php:136 lib/php/my_account.class.php:155
+#: lib/php/my_account.class.php:165 lib/php/actions.register.php:164
+#: signup.php:25 header.php:197
+msgid "Register"
+msgstr ""
+
+#: lib/php/my_account.class.php:141 lib/php/my_account.class.php:150
+#: lib/php/my_account.class.php:170
+msgid "Unregister"
+msgstr ""
+
+#: lib/php/my_account.class.php:145 lib/php/my_account.class.php:174
+#: lib/php/my_account.class.php:205
+msgid "Registration is disabled"
+msgstr ""
+
+#: lib/php/my_account.class.php:201
+msgid "To be able to register for the event please sign up."
+msgstr ""
+
+#: lib/php/my_account.class.php:201 lib/php/shcode.class.php:669
+#: header.php:210
+msgid "Sign up"
+msgstr ""
+
+#: lib/php/shcode.class.php:7
+msgid "Phone 1"
+msgstr ""
+
+#: lib/php/shcode.class.php:9 lib/php/shcode.class.php:97
+#: lib/php/resources.register.php:634
+msgid "Phone"
+msgstr ""
+
+#: lib/php/shcode.class.php:13
+msgid "Phone 2"
+msgstr ""
+
+#: lib/php/shcode.class.php:14 lib/php/map.class.php:296
+msgid "Fax"
+msgstr ""
+
+#: lib/php/shcode.class.php:80
+msgid "Name (required)"
+msgstr ""
+
+#: lib/php/shcode.class.php:88
+msgid "Email (required)"
+msgstr ""
+
+#: lib/php/shcode.class.php:105
+msgid "Send Message"
+msgstr ""
+
+#: lib/php/shcode.class.php:249 lib/php/shcode.class.php:300
+#: lib/php/shcode.class.php:451 lib/php/shcode.class.php:505
+msgid "exhibitor"
+msgstr ""
+
+#: lib/php/extra.class.php:126
+msgid "main sidebar"
+msgstr ""
+
+#: lib/php/shcode/main.php:24
+msgid "Columns"
+msgstr ""
+
+#: lib/php/shcode/main.php:25
+msgid "Button"
+msgstr ""
+
+#: lib/php/shcode/main.php:26
+msgid "Tabs &amp; Toggles"
+msgstr ""
+
+#: lib/php/shcode/main.php:27
+msgid "Info Box"
+msgstr ""
+
+#: lib/php/shcode/main.php:28
+msgid "Typography"
+msgstr ""
+
+#: lib/php/shcode/main.php:29
+msgid "Map/Contact"
+msgstr ""
+
+#: lib/php/shcode/main.php:30
+msgid "Conference"
+msgstr ""
+
+#: lib/php/shcode/main.php:31
+msgid "Price Table"
+msgstr ""
+
+#: lib/php/shcode/main.php:32
+msgid "Table"
+msgstr ""
+
+#: lib/php/shcode/price.php:2
+msgid "Set number of cols"
+msgstr ""
+
+#: lib/php/shcode/price.php:5
+msgid "select number of columns"
+msgstr ""
+
+#: lib/php/shcode/conference.php:5
+msgid "Select Conference Resource"
+msgstr ""
+
+#: lib/php/shcode/conference.php:6
+msgid "Conferences"
+msgstr ""
+
+#: lib/php/shcode/conference.php:7
+msgid "Presentations"
+msgstr ""
+
+#: lib/php/shcode/conference.php:8
+msgid "Speakers"
+msgstr ""
+
+#: lib/php/shcode/conference.php:9
+msgid "Exhibitors"
+msgstr ""
+
+#: lib/php/shcode/conference.php:10
+msgid "Sponsors"
+msgstr ""
+
+#: lib/php/shcode/conference.php:11
+msgid "Program"
+msgstr ""
+
+#: lib/php/shcode/conference.php:12
+msgid "Guests"
+msgstr ""
+
+#: lib/php/shcode/conference.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: lib/php/shcode/conference.php:20 lib/php/shcode/conference.php:35
+#: lib/php/widget/conferences.php:39 lib/php/widget/presentations.php:41
+#: lib/php/widget/speakers.php:39 lib/php/widget/animated_sponsors.php:46
+#: lib/php/widget/registration.php:39 lib/php/widget/exhibitors.php:46
+#: lib/php/widget/sponsors.php:45 lib/php/widget/program.php:48
+#: lib/php/widget/guests.php:39 lib/php/widget/testimonials.php:36
+#: lib/php/resources.register.php:412 lib/php/resources.register.php:478
+#: lib/php/resources.register.php:573 lib/php/resources.register.php:651
+#: lib/php/resources.register.php:757 lib/php/resources.register.php:758
+#: lib/php/resources.register.php:856
+msgid "Select Conference"
+msgstr ""
+
+#: lib/php/shcode/conference.php:44
+msgid "All Conferences (list)"
+msgstr ""
+
+#: lib/php/shcode/conference.php:52 lib/php/resources.register.php:652
+#: lib/php/resources.register.php:761
+msgid "Select Presentation"
+msgstr ""
+
+#: lib/php/shcode/conference.php:62
+msgid "All Presentations"
+msgstr ""
+
+#: lib/php/shcode/conference.php:69
+msgid "Select Listing type"
+msgstr ""
+
+#: lib/php/shcode/conference.php:72
+msgid "Select option"
+msgstr ""
+
+#: lib/php/shcode/conference.php:73
+msgid "List of all testimonials"
+msgstr ""
+
+#: lib/php/shcode/conference.php:74
+msgid "Animated testimonials"
+msgstr ""
+
+#: lib/php/shcode/conference.php:82 lib/php/shcode/conference.php:89
+#: lib/php/shcode/conference.php:96 lib/php/shcode/conference.php:104
+#: lib/php/shcode/conference.php:113
+msgid "Add Shortcode"
+msgstr ""
+
+#: lib/php/shcode/contact.php:35
+msgid ""
+"Drag and drop the marker location. To use google map, set the key in panel "
+"management"
+msgstr ""
+
+#: lib/php/shcode/contact.php:35
+msgid "here"
+msgstr ""
+
+#: lib/php/shcode/contact.php:37
+msgid "Your browser does not support iframes."
+msgstr ""
+
+#: lib/php/shcode/contact.php:40
+msgid "Insert Contact Form"
+msgstr ""
+
+#: lib/php/shcode/table.php:3
+msgid "Table title:"
+msgstr ""
+
+#: lib/php/shcode/table.php:8
+msgid "Number of Rows:"
+msgstr ""
+
+#: lib/php/shcode/table.php:13
+msgid "Number of Columns:"
+msgstr ""
+
+#: lib/php/shcode/table.php:20
+msgid "Additional class:"
+msgstr ""
+
+#: lib/php/shcode/table.php:27
+msgid "Custom CSS styles:"
+msgstr ""
+
+#: lib/php/shcode/table.php:34
+msgid "Select table style:"
+msgstr ""
+
+#: lib/php/shcode/table.php:51
+msgid "Add Table"
+msgstr ""
+
+#: lib/php/widget/social_media.php:4
+msgid "Display list of social media icons"
+msgstr ""
+
+#: lib/php/widget/social_media.php:5 lib/php/widget/social_media.php:13
+msgid "Social Media"
+msgstr ""
+
+#: lib/php/widget/social_media.php:48 lib/php/widget/conferences.php:35
+#: lib/php/widget/presentations.php:36 lib/php/widget/speakers.php:34
+#: lib/php/widget/animated_sponsors.php:42 lib/php/widget/registration.php:34
+#: lib/php/widget/exhibitors.php:41 lib/php/widget/sponsors.php:41
+#: lib/php/widget/latest_posts.php:101 lib/php/widget/program.php:42
+#: lib/php/widget/flickr.php:52 lib/php/widget/contact.php:23
+#: lib/php/widget/tweets.php:35 lib/php/widget/guests.php:35
+#: lib/php/widget/testimonials.php:31 lib/php/resources.register.php:631
+msgid "Title"
+msgstr ""
+
+#: lib/php/widget/social_media.php:52
+msgid "Facebook ID"
+msgstr ""
+
+#: lib/php/widget/social_media.php:57 lib/php/options.register.php:234
+msgid "Twitter ID"
+msgstr ""
+
+#: lib/php/widget/social_media.php:62
+msgid "LinkedIn Public Profile URL"
+msgstr ""
+
+#: lib/php/widget/social_media.php:67 lib/php/map.class.php:302
+msgid "Contact email"
+msgstr ""
+
+#: lib/php/widget/social_media.php:72
+msgid "Show RSS"
+msgstr ""
+
+#: lib/php/widget/conferences.php:4
+msgid "Display list of Events"
+msgstr ""
+
+#: lib/php/widget/conferences.php:5
+msgid "Events list"
+msgstr ""
+
+#: lib/php/widget/conferences.php:13
+msgid "Events"
+msgstr ""
+
+#: lib/php/widget/conferences.php:50 lib/php/widget/program.php:67
+msgid "Number of events to display"
+msgstr ""
+
+#: lib/php/widget/conferences.php:65
+msgid "Show images"
+msgstr ""
+
+#: lib/php/widget/conferences.php:124
+msgid "Please select listing type"
+msgstr ""
+
+#: lib/php/widget/presentations.php:4
+msgid "Display list of Presentations from a Conference"
+msgstr ""
+
+#: lib/php/widget/presentations.php:5 lib/php/resources.register.php:365
+#: lib/php/resources.register.php:373
+msgid "Conference Presentations"
+msgstr ""
+
+#: lib/php/widget/presentations.php:14
+msgid "Conference presentations"
+msgstr ""
+
+#: lib/php/widget/presentations.php:60
+msgid "Number of presentations to display"
+msgstr ""
+
+#: lib/php/widget/presentations.php:66 lib/php/widget/speakers.php:63
+#: lib/php/widget/exhibitors.php:71 lib/php/widget/sponsors.php:70
+#: lib/php/widget/program.php:73 lib/php/widget/guests.php:64
+msgid "Select Page for 'Read more' link"
+msgstr ""
+
+#: lib/php/widget/presentations.php:138 lib/php/widget/speakers.php:135
+#: lib/php/widget/animated_sponsors.php:152
+#: lib/php/widget/registration.php:314 lib/php/widget/exhibitors.php:166
+#: lib/php/widget/sponsors.php:165 lib/php/widget/program.php:144
+#: lib/php/widget/guests.php:136 lib/php/widget/testimonials.php:104
+msgid "Please select Conference"
+msgstr ""
+
+#: lib/php/widget/speakers.php:4
+msgid "Display list of Speakers from a Conference"
+msgstr ""
+
+#: lib/php/widget/speakers.php:5
+msgid "Conference speakers"
+msgstr ""
+
+#: lib/php/widget/speakers.php:12
+msgid "Conference Speakers"
+msgstr ""
+
+#: lib/php/widget/speakers.php:57
+msgid "Number of speakers to display"
+msgstr ""
+
+#: lib/php/widget/animated_sponsors.php:4
+msgid "Display animated list of Sponsors from a Conference"
+msgstr ""
+
+#: lib/php/widget/animated_sponsors.php:5
+msgid "Conference Sponsors Animated"
+msgstr ""
+
+#: lib/php/widget/animated_sponsors.php:13 lib/php/widget/sponsors.php:13
+msgid "Conference sponsors"
+msgstr ""
+
+#: lib/php/widget/animated_sponsors.php:65
+msgid "Total number of sponsors to display"
+msgstr ""
+
+#: lib/php/widget/animated_sponsors.php:71
+msgid "Number of visible sponsors"
+msgstr ""
+
+#: lib/php/widget/animated_sponsors.php:86
+msgid "show sponsor name"
+msgstr ""
+
+#: lib/php/widget/registration.php:4
+msgid "Display registration box"
+msgstr ""
+
+#: lib/php/widget/registration.php:5
+msgid "Conference registration"
+msgstr ""
+
+#: lib/php/widget/registration.php:41
+msgid "select conference"
+msgstr ""
+
+#: lib/php/widget/registration.php:43 lib/php/widget/registration.php:45
+msgid "Latest conference"
+msgstr ""
+
+#: lib/php/widget/registration.php:61
+msgid "External registration link"
+msgstr ""
+
+#: lib/php/widget/registration.php:63
+msgid "If the ablove field is set then registration will link to it"
+msgstr ""
+
+#: lib/php/widget/registration.php:67
+msgid "Description"
+msgstr ""
+
+#: lib/php/widget/registration.php:304
+msgid "Registered"
+msgstr ""
+
+#: lib/php/widget/registration.php:307
+msgid "register for the event"
+msgstr ""
+
+#: lib/php/widget/exhibitors.php:4
+msgid "Display list of Exhibitors from a Conference"
+msgstr ""
+
+#: lib/php/widget/exhibitors.php:5 lib/php/resources.register.php:366
+msgid "Conference Exhibitors"
+msgstr ""
+
+#: lib/php/widget/exhibitors.php:13
+msgid "Conference exhibitors"
+msgstr ""
+
+#: lib/php/widget/exhibitors.php:65
+msgid "Number exhibitors to display"
+msgstr ""
+
+#: lib/php/widget/exhibitors.php:99 lib/php/widget/sponsors.php:98
+msgid "show description"
+msgstr ""
+
+#: lib/php/widget/sponsors.php:4
+msgid "Display list of Sponsors from a Conference"
+msgstr ""
+
+#: lib/php/widget/sponsors.php:5 lib/php/resources.register.php:367
+msgid "Conference Sponsors"
+msgstr ""
+
+#: lib/php/widget/sponsors.php:64
+msgid "Number of sponsors to display"
+msgstr ""
+
+#: lib/php/widget/latest_posts.php:7 lib/php/widget/latest_posts.php:8
+#: lib/php/widget/latest_posts.php:17
+msgid "Latest Posts"
+msgstr ""
+
+#: lib/php/widget/latest_posts.php:65
+msgid "Comments Off"
+msgstr ""
+
+#: lib/php/widget/latest_posts.php:106
+msgid "Number of posts"
+msgstr ""
+
+#: lib/php/widget/program.php:4
+msgid "Display list of events from a Conference"
+msgstr ""
+
+#: lib/php/widget/program.php:5
+msgid "Conference Program"
+msgstr ""
+
+#: lib/php/widget/program.php:15
+msgid "Conference program"
+msgstr ""
+
+#: lib/php/widget/flickr.php:6 lib/php/widget/flickr.php:7
+msgid "Flickr Photos"
+msgstr ""
+
+#: lib/php/widget/flickr.php:16
+msgid "Photo Gallery"
+msgstr ""
+
+#: lib/php/widget/flickr.php:63
+msgid "Number of photos"
+msgstr ""
+
+#: lib/php/widget/flickr.php:69
+msgid "Showing Method"
+msgstr ""
+
+#: lib/php/widget/flickr.php:71
+msgid "Random Photo"
+msgstr ""
+
+#: lib/php/widget/flickr.php:72
+msgid "Latest Photo"
+msgstr ""
+
+#: lib/php/widget/contact.php:4
+msgid "Display Contact form"
+msgstr ""
+
+#: lib/php/widget/contact.php:5
+msgid "Quick Contact form"
+msgstr ""
+
+#: lib/php/widget/contact.php:13
+msgid "Contact us"
+msgstr ""
+
+#: lib/php/widget/tweets.php:5
+msgid "Latest tweets"
+msgstr ""
+
+#: lib/php/widget/tweets.php:39
+msgid "Twitter User Name"
+msgstr ""
+
+#: lib/php/widget/tweets.php:43
+msgid "Number of latest tweets to show"
+msgstr ""
+
+#: lib/php/widget/tweets.php:47
+msgid "Animated"
+msgstr ""
+
+#: lib/php/widget/tweets.php:208
+msgid "Please add the Twitter user name"
+msgstr ""
+
+#: lib/php/widget/tweets.php:210 lib/php/tweets.class.php:131
+#: lib/php/tweets.class.php:140 lib/php/tweets.class.php:155
+#: lib/php/tweets.class.php:164
+msgid "Unable to read tweets !!!"
+msgstr ""
+
+#: lib/php/widget/tweets.php:218 lib/php/tweets.class.php:109
+#: lib/php/tweets.class.php:173
+msgid "Join the conversation"
+msgstr ""
+
+#: lib/php/widget/guests.php:4
+msgid "Display list whit guests from a Conference"
+msgstr ""
+
+#: lib/php/widget/guests.php:5 lib/php/resources.register.php:369
+msgid "Conference Guests"
+msgstr ""
+
+#: lib/php/widget/guests.php:13
+msgid "Conference guests"
+msgstr ""
+
+#: lib/php/widget/guests.php:58
+msgid "Number of guests to display"
+msgstr ""
+
+#: lib/php/widget/testimonials.php:4
+msgid "Display Testimonials from a Conference"
+msgstr ""
+
+#: lib/php/widget/testimonials.php:5 lib/php/widget/testimonials.php:14
+msgid "Conference testimonials"
+msgstr ""
+
+#: lib/php/widget/testimonials.php:55
+msgid "Number of testimonials to display"
+msgstr ""
+
+#: lib/php/options.register.php:3
+msgid "General"
+msgstr ""
+
+#: lib/php/options.register.php:3
+msgid "General Settings"
+msgstr ""
+
+#: lib/php/options.register.php:4
+msgid "Front Page"
+msgstr ""
+
+#: lib/php/options.register.php:4
+msgid "Front Page Settings"
+msgstr ""
+
+#: lib/php/options.register.php:5
+msgid "Layout"
+msgstr ""
+
+#: lib/php/options.register.php:5
+msgid "Layout Page Settings"
+msgstr ""
+
+#: lib/php/options.register.php:6
+msgid "Styling"
+msgstr ""
+
+#: lib/php/options.register.php:6
+msgid "Styling Settings"
+msgstr ""
+
+#: lib/php/options.register.php:7
+msgid "Menu"
+msgstr ""
+
+#: lib/php/options.register.php:7
+msgid "Menu Settings"
+msgstr ""
+
+#: lib/php/options.register.php:8
+msgid "Blogging"
+msgstr ""
+
+#: lib/php/options.register.php:8
+msgid "Blog Post Settings"
+msgstr ""
+
+#: lib/php/options.register.php:9
+msgid "Social"
+msgstr ""
+
+#: lib/php/options.register.php:9
+msgid "Social Settings"
+msgstr ""
+
+#: lib/php/options.register.php:10
+msgid "Slideshow"
+msgstr ""
+
+#: lib/php/options.register.php:10
+msgid "Slideshow Settings"
+msgstr ""
+
+#: lib/php/options.register.php:11
+msgid "Sidebar"
+msgstr ""
+
+#: lib/php/options.register.php:11
+msgid "Sidebar Manager"
+msgstr ""
+
+#: lib/php/options.register.php:16
+msgid "Error, please select \"ico\" type media file"
+msgstr ""
+
+#: lib/php/options.register.php:18
+msgid ""
+"Please select 'ico' type media file. Make sure you allow uploading 'ico' "
+"type in General Settings -> Upload file types."
+msgstr ""
+
+#: lib/php/options.register.php:21
+msgid "Custom Favicon"
+msgstr ""
+
+#: lib/php/options.register.php:22
+msgid "Type Title "
+msgstr ""
+
+#: lib/php/options.register.php:22
+msgid "Enable text-based Site Title and Tagline."
+msgstr ""
+
+#: lib/php/options.register.php:25
+msgid "Custom Logo URL"
+msgstr ""
+
+#: lib/php/options.register.php:31 lib/php/options.register.php:35
+msgid ""
+"to change blog title go to <a href=\"options-general.php\">general settings "
+"</a> "
+msgstr ""
+
+#: lib/php/options.register.php:42
+msgid "Tracking Code"
+msgstr ""
+
+#: lib/php/options.register.php:42
+msgid ""
+"Paste your Google Analytics or other tracking code here,<br /> and it will "
+"be added into the footer of your template."
+msgstr ""
+
+#: lib/php/options.register.php:45
+msgid "Enable conference registration"
+msgstr ""
+
+#: lib/php/options.register.php:45
+msgid "check to show \"register\" link."
+msgstr ""
+
+#: lib/php/options.register.php:47
+msgid "Show Log In link"
+msgstr ""
+
+#: lib/php/options.register.php:47
+msgid "check to show \"Log In\" link."
+msgstr ""
+
+#: lib/php/options.register.php:49
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: lib/php/options.register.php:56 lib/php/resources.register.php:346
+msgid "Left Sidebar"
+msgstr ""
+
+#: lib/php/options.register.php:56 lib/php/resources.register.php:346
+msgid "Right Sidebar"
+msgstr ""
+
+#: lib/php/options.register.php:56 lib/php/resources.register.php:346
+msgid "Full Width"
+msgstr ""
+
+#: lib/php/options.register.php:57
+msgid "Layout Settings"
+msgstr ""
+
+#: lib/php/options.register.php:59
+msgid "Layout for 404 page"
+msgstr ""
+
+#: lib/php/options.register.php:61
+msgid "Layout for Author page"
+msgstr ""
+
+#: lib/php/options.register.php:63
+msgid "Layout for Pages page"
+msgstr ""
+
+#: lib/php/options.register.php:65
+msgid "Layout for Single Blog post"
+msgstr ""
+
+#: lib/php/options.register.php:66
+msgid "Layout for Single Conference page"
+msgstr ""
+
+#: lib/php/options.register.php:67
+msgid "Layout for Single Presentation page"
+msgstr ""
+
+#: lib/php/options.register.php:68
+msgid "Layout for Single Exhibitor page"
+msgstr ""
+
+#: lib/php/options.register.php:69
+msgid "Layout for Single Sponsor page"
+msgstr ""
+
+#: lib/php/options.register.php:70
+msgid "Layout for Single Speaker page"
+msgstr ""
+
+#: lib/php/options.register.php:72
+msgid "Layout for Blog Page page"
+msgstr ""
+
+#: lib/php/options.register.php:74
+msgid "Layout for Search page"
+msgstr ""
+
+#: lib/php/options.register.php:75
+msgid "Layout for Archive page"
+msgstr ""
+
+#: lib/php/options.register.php:76
+msgid "Layout for Category page"
+msgstr ""
+
+#: lib/php/options.register.php:77 lib/php/options.register.php:78
+msgid "Layout for Tags page"
+msgstr ""
+
+#: lib/php/options.register.php:107
+msgid "Select Slideshow on Front Page"
+msgstr ""
+
+#: lib/php/options.register.php:109
+msgid "Select front page resource type"
+msgstr ""
+
+#: lib/php/options.register.php:111
+msgid "Select static page for front page"
+msgstr ""
+
+#: lib/php/options.register.php:113
+msgid "Select Event on Front Page"
+msgstr ""
+
+#: lib/php/options.register.php:113
+msgid ""
+"If none is selected, then the latest event will show up on the front page"
+msgstr ""
+
+#: lib/php/options.register.php:114
+msgid "Front Latest Conference content length"
+msgstr ""
+
+#: lib/php/options.register.php:116
+msgid "If you wish to set blog page go to "
+msgstr ""
+
+#: lib/php/options.register.php:116
+msgid "Settings -> Reading "
+msgstr ""
+
+#: lib/php/options.register.php:141
+msgid "Select Theme Background"
+msgstr ""
+
+#: lib/php/options.register.php:144
+msgid "Set boxed content style"
+msgstr ""
+
+#: lib/php/options.register.php:144
+msgid "check for boxed content style."
+msgstr ""
+
+#: lib/php/options.register.php:148
+msgid "Set background color"
+msgstr ""
+
+#: lib/php/options.register.php:149
+msgid "Set footer background color"
+msgstr ""
+
+#: lib/php/options.register.php:160
+msgid "Set limit for Main Menu"
+msgstr ""
+
+#: lib/php/options.register.php:160
+msgid ""
+"Set the number of visible menu items. Remaining menu items<br />will be "
+"shown in the drop down menu item \"More\" ."
+msgstr ""
+
+#: lib/php/options.register.php:161
+msgid "Set limit for Footer Menu"
+msgstr ""
+
+#: lib/php/options.register.php:168
+msgid "General Blog Posts Settings"
+msgstr ""
+
+#: lib/php/options.register.php:169 lib/php/options.register.php:179
+#: lib/php/options.register.php:184
+msgid "Number of similar posts"
+msgstr ""
+
+#: lib/php/options.register.php:170
+msgid "Show similar posts"
+msgstr ""
+
+#: lib/php/options.register.php:171
+msgid "Enable social sharing for posts"
+msgstr ""
+
+#: lib/php/options.register.php:172
+msgid "Post Author Box"
+msgstr ""
+
+#: lib/php/options.register.php:172
+msgid ""
+"This will enable the post author box on the single posts page.<br /> Edit "
+"description in Users > Your Profile."
+msgstr ""
+
+#: lib/php/options.register.php:174
+msgid "General Blog Page Settings"
+msgstr ""
+
+#: lib/php/options.register.php:175
+msgid "Enable social sharing for page"
+msgstr ""
+
+#: lib/php/options.register.php:176
+msgid "Page Author Box"
+msgstr ""
+
+#: lib/php/options.register.php:176
+msgid ""
+"This will enable the page author box on the single page.<br /> Edit "
+"description in Users > Your Profile."
+msgstr ""
+
+#: lib/php/options.register.php:178
+msgid "Conference Posts Settings"
+msgstr ""
+
+#: lib/php/options.register.php:180
+msgid "Show similar conferences"
+msgstr ""
+
+#: lib/php/options.register.php:181
+msgid "Enable social sharing for conference posts"
+msgstr ""
+
+#: lib/php/options.register.php:183
+msgid "Presentation Posts Settings"
+msgstr ""
+
+#: lib/php/options.register.php:185
+msgid "Show similar presentations"
+msgstr ""
+
+#: lib/php/options.register.php:186
+msgid "Enable social sharing for presentation posts"
+msgstr ""
+
+#: lib/php/options.register.php:188
+msgid "Speaker Posts Settings"
+msgstr ""
+
+#: lib/php/options.register.php:189
+msgid "Number of similar speakers"
+msgstr ""
+
+#: lib/php/options.register.php:190 lib/php/resources.register.php:646
+msgid "Show similar speakers"
+msgstr ""
+
+#: lib/php/options.register.php:191
+msgid "Enable social sharing for speaker posts"
+msgstr ""
+
+#: lib/php/options.register.php:193
+msgid "Exhibitor Posts Settings"
+msgstr ""
+
+#: lib/php/options.register.php:194
+msgid "Enable social sharing for exhibitor posts"
+msgstr ""
+
+#: lib/php/options.register.php:196
+msgid "Sponsor Posts Settings"
+msgstr ""
+
+#: lib/php/options.register.php:197
+msgid "Enable social sharing for sponsor posts"
+msgstr ""
+
+#: lib/php/options.register.php:199
+msgid "Author Settings"
+msgstr ""
+
+#: lib/php/options.register.php:200
+msgid "Enable social sharing for author page"
+msgstr ""
+
+#: lib/php/options.register.php:202
+msgid "Attachment Posts Settings"
+msgstr ""
+
+#: lib/php/options.register.php:203
+msgid "Enable social sharing for attachment posts"
+msgstr ""
+
+#: lib/php/options.register.php:204
+msgid "Enable comments for attachment posts"
+msgstr ""
+
+#: lib/php/options.register.php:234
+msgid "If set, Twitter icon will appear in the header area."
+msgstr ""
+
+#: lib/php/options.register.php:235
+msgid "Twitter widget update interval"
+msgstr ""
+
+#: lib/php/options.register.php:235
+msgid "How often to ckeck for new tweets (in minutes)"
+msgstr ""
+
+#: lib/php/options.register.php:237
+msgid "Facebook profile ID"
+msgstr ""
+
+#: lib/php/options.register.php:237
+msgid "If set, Facebook icon will appear in the header area."
+msgstr ""
+
+#: lib/php/options.register.php:243
+msgid "Google map key"
+msgstr ""
+
+#: lib/php/options.register.php:243
+msgid "This key is neded if you want to use google map in contact form."
+msgstr ""
+
+#: lib/php/options.register.php:248
+msgid "Auto generate next/prev buttons"
+msgstr ""
+
+#: lib/php/options.register.php:249
+msgid "Set the speed of the sliding animation in milliseconds."
+msgstr ""
+
+#: lib/php/options.register.php:250
+msgid "Time between slide animation in milliseconds"
+msgstr ""
+
+#: lib/php/options.register.php:251
+msgid "Set effect"
+msgstr ""
+
+#: lib/php/options.register.php:252
+msgid "Randomize files"
+msgstr ""
+
+#: lib/php/options.register.php:253
+msgid "Pause slideshow on hovering"
+msgstr ""
+
+#: lib/php/options.register.php:254
+msgid "Show ribbon on slideshow"
+msgstr ""
+
+#: lib/php/options.register.php:285
+msgid "Set title for new Sidebar"
+msgstr ""
+
+#: lib/php/options.register.php:286
+msgid "Add New Sidebar"
+msgstr ""
+
+#: lib/php/options.register.php:289
+msgid "List of generic dinamic Sidebars"
+msgstr ""
+
+#: lib/php/resources.register.php:7 lib/php/resources.register.php:415
+#: lib/php/resources.register.php:481 lib/php/resources.register.php:576
+#: lib/php/resources.register.php:655 lib/php/resources.register.php:860
+msgid "Add New Conference"
+msgstr ""
+
+#: lib/php/resources.register.php:8
+msgid "Edit Conference"
+msgstr ""
+
+#: lib/php/resources.register.php:9
+msgid "New Conference"
+msgstr ""
+
+#: lib/php/resources.register.php:10
+msgid "View Conference"
+msgstr ""
+
+#: lib/php/resources.register.php:11
+msgid "Search Conferences"
+msgstr ""
+
+#: lib/php/resources.register.php:12 lib/php/resources.register.php:398
+#: lib/php/resources.register.php:449 lib/php/resources.register.php:504
+#: lib/php/resources.register.php:617 lib/php/resources.register.php:678
+#: lib/php/resources.register.php:838
+msgid "Nothing found"
+msgstr ""
+
+#: lib/php/resources.register.php:13 lib/php/resources.register.php:399
+#: lib/php/resources.register.php:450 lib/php/resources.register.php:505
+#: lib/php/resources.register.php:618 lib/php/resources.register.php:679
+#: lib/php/resources.register.php:839
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: lib/php/resources.register.php:25
+msgctxt "taxonomy general name"
+msgid "Category"
+msgstr ""
+
+#: lib/php/resources.register.php:26
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: lib/php/resources.register.php:27
+msgid "Search Categories"
+msgstr ""
+
+#: lib/php/resources.register.php:28
+msgid "All Categories"
+msgstr ""
+
+#: lib/php/resources.register.php:29
+msgid "Parent Category"
+msgstr ""
+
+#: lib/php/resources.register.php:30
+msgid "Parent Category:"
+msgstr ""
+
+#: lib/php/resources.register.php:31
+msgid "Edit Category"
+msgstr ""
+
+#: lib/php/resources.register.php:32
+msgid "Update Category"
+msgstr ""
+
+#: lib/php/resources.register.php:33
+msgid "Add New Category"
+msgstr ""
+
+#: lib/php/resources.register.php:34
+msgid "New Category Name"
+msgstr ""
+
+#: lib/php/resources.register.php:37
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: lib/php/resources.register.php:38
+msgctxt "taxonomy singular name"
+msgid "Tags"
+msgstr ""
+
+#: lib/php/resources.register.php:39
+msgid "Search Tags"
+msgstr ""
+
+#: lib/php/resources.register.php:40
+msgid "Popular Tags"
+msgstr ""
+
+#: lib/php/resources.register.php:41
+msgid "All Tags"
+msgstr ""
+
+#: lib/php/resources.register.php:42
+msgid "Edit Tag"
+msgstr ""
+
+#: lib/php/resources.register.php:43
+msgid "Update Tag"
+msgstr ""
+
+#: lib/php/resources.register.php:44
+msgid "Add New Tag"
+msgstr ""
+
+#: lib/php/resources.register.php:45
+msgid "New Tag"
+msgstr ""
+
+#: lib/php/resources.register.php:46
+msgid "Separate markers with commas"
+msgstr ""
+
+#: lib/php/resources.register.php:47
+msgid "Add or remove Tags"
+msgstr ""
+
+#: lib/php/resources.register.php:48
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: lib/php/resources.register.php:274
+msgid "Select Presentation for this Conference:"
+msgstr ""
+
+#: lib/php/resources.register.php:275 lib/php/resources.register.php:365
+msgid "Add Presentation"
+msgstr ""
+
+#: lib/php/resources.register.php:277 lib/php/resources.register.php:499
+msgid "Add New Presentation"
+msgstr ""
+
+#: lib/php/resources.register.php:282
+msgid "Select Exhibitor for this Conference:"
+msgstr ""
+
+#: lib/php/resources.register.php:283 lib/php/resources.register.php:366
+msgid "Add Exhibitor"
+msgstr ""
+
+#: lib/php/resources.register.php:285 lib/php/resources.register.php:393
+msgid "Add New Exhibitor"
+msgstr ""
+
+#: lib/php/resources.register.php:290
+msgid "Select Sponsor for this Conference:"
+msgstr ""
+
+#: lib/php/resources.register.php:291 lib/php/resources.register.php:367
+msgid "Add Sponsor"
+msgstr ""
+
+#: lib/php/resources.register.php:293 lib/php/resources.register.php:444
+msgid "Add New Sponsor"
+msgstr ""
+
+#: lib/php/resources.register.php:298
+msgid "Select Testimonial for this Conference:"
+msgstr ""
+
+#: lib/php/resources.register.php:299 lib/php/resources.register.php:368
+msgid "Add Testimonial"
+msgstr ""
+
+#: lib/php/resources.register.php:301 lib/php/resources.register.php:833
+msgid "Add New Testimonial"
+msgstr ""
+
+#: lib/php/resources.register.php:304
+msgid "Host country"
+msgstr ""
+
+#: lib/php/resources.register.php:306 lib/php/resources.register.php:632
+msgid "Institution"
+msgstr ""
+
+#: lib/php/resources.register.php:310
+msgid "Start event"
+msgstr ""
+
+#: lib/php/resources.register.php:313 lib/php/resources.register.php:321
+msgid " @ "
+msgstr ""
+
+#: lib/php/resources.register.php:318
+msgid "End event"
+msgstr ""
+
+#: lib/php/resources.register.php:325
+msgid "Event title"
+msgstr ""
+
+#: lib/php/resources.register.php:326
+msgid "Event description"
+msgstr ""
+
+#: lib/php/resources.register.php:327
+msgid "Add Conference Event"
+msgstr ""
+
+#: lib/php/resources.register.php:346
+msgid "Select layout type"
+msgstr ""
+
+#: lib/php/resources.register.php:347
+msgid "Select sidebar"
+msgstr ""
+
+#: lib/php/resources.register.php:348
+msgid "Add new Sidebar"
+msgstr ""
+
+#: lib/php/resources.register.php:350
+msgid "Enable/Disable registration"
+msgstr ""
+
+#: lib/php/resources.register.php:350
+msgid "Enable"
+msgstr ""
+
+#: lib/php/resources.register.php:350
+msgid "Disable"
+msgstr ""
+
+#: lib/php/resources.register.php:355 lib/php/resources.register.php:420
+#: lib/php/resources.register.php:467 lib/php/resources.register.php:585
+#: lib/php/resources.register.php:640 lib/php/resources.register.php:790
+#: lib/php/resources.register.php:811
+msgid "Display slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:356 lib/php/resources.register.php:421
+#: lib/php/resources.register.php:468 lib/php/resources.register.php:586
+#: lib/php/resources.register.php:641 lib/php/resources.register.php:791
+#: lib/php/resources.register.php:812
+msgid "Select Slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:359 lib/php/resources.register.php:424
+#: lib/php/resources.register.php:471 lib/php/resources.register.php:589
+#: lib/php/resources.register.php:644 lib/php/resources.register.php:673
+#: lib/php/resources.register.php:794 lib/php/resources.register.php:815
+msgid "Add New Slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:361
+msgid "Show related conferences"
+msgstr ""
+
+#: lib/php/resources.register.php:362 lib/php/resources.register.php:426
+#: lib/php/resources.register.php:473 lib/php/resources.register.php:592
+#: lib/php/resources.register.php:647 lib/php/resources.register.php:798
+#: lib/php/resources.register.php:818
+msgid "Show social sharing"
+msgstr ""
+
+#: lib/php/resources.register.php:368
+msgid "Conference Testimonial"
+msgstr ""
+
+#: lib/php/resources.register.php:369
+msgid "Registered Guests"
+msgstr ""
+
+#: lib/php/resources.register.php:370
+msgid "Registration"
+msgstr ""
+
+#: lib/php/resources.register.php:372
+msgid "Conference Location"
+msgstr ""
+
+#: lib/php/resources.register.php:373
+msgid "Compose Conference Program"
+msgstr ""
+
+#: lib/php/resources.register.php:376 lib/php/resources.register.php:431
+#: lib/php/resources.register.php:487 lib/php/resources.register.php:599
+#: lib/php/resources.register.php:661 lib/php/resources.register.php:802
+#: lib/php/resources.register.php:822 lib/php/resources.register.php:866
+msgid "Layout and Sidebars"
+msgstr ""
+
+#: lib/php/resources.register.php:379 lib/php/resources.register.php:429
+#: lib/php/resources.register.php:484 lib/php/resources.register.php:597
+#: lib/php/resources.register.php:658 lib/php/resources.register.php:801
+#: lib/php/resources.register.php:821
+msgid "Shortcodes"
+msgstr ""
+
+#: lib/php/resources.register.php:380
+msgid "Conference Settings"
+msgstr ""
+
+#: lib/php/resources.register.php:394
+msgid "Edit Exhibitor"
+msgstr ""
+
+#: lib/php/resources.register.php:395
+msgid "New Exhibitor"
+msgstr ""
+
+#: lib/php/resources.register.php:396
+msgid "View Exhibitor"
+msgstr ""
+
+#: lib/php/resources.register.php:397
+msgid "Search Exhibitors"
+msgstr ""
+
+#: lib/php/resources.register.php:430
+msgid "Attach this Exhibitor to Conference"
+msgstr ""
+
+#: lib/php/resources.register.php:430
+msgid "Exhibitor's Conferences"
+msgstr ""
+
+#: lib/php/resources.register.php:432
+msgid "Exhibitor Settings"
+msgstr ""
+
+#: lib/php/resources.register.php:442
+msgctxt "post type singular name"
+msgid "Sponsor"
+msgstr ""
+
+#: lib/php/resources.register.php:443
+msgctxt "Sponsor"
+msgid "Add New"
+msgstr ""
+
+#: lib/php/resources.register.php:445
+msgid "Edit Sponsor"
+msgstr ""
+
+#: lib/php/resources.register.php:446
+msgid "New Sponsor"
+msgstr ""
+
+#: lib/php/resources.register.php:447
+msgid "View Sponsor"
+msgstr ""
+
+#: lib/php/resources.register.php:448
+msgid "Search Sponsors"
+msgstr ""
+
+#: lib/php/resources.register.php:461
+msgid "Sponsor URL"
+msgstr ""
+
+#: lib/php/resources.register.php:462
+msgid "To add sponsor photo please "
+msgstr ""
+
+#: lib/php/resources.register.php:462 lib/php/resources.register.php:635
+msgid "set featured image"
+msgstr ""
+
+#: lib/php/resources.register.php:485
+msgid "Sponsor Info"
+msgstr ""
+
+#: lib/php/resources.register.php:486
+msgid "Attach this Sponsor to Conference"
+msgstr ""
+
+#: lib/php/resources.register.php:486
+msgid "Sponsor's Conferences"
+msgstr ""
+
+#: lib/php/resources.register.php:488
+msgid "Sponsor Settings"
+msgstr ""
+
+#: lib/php/resources.register.php:497
+msgctxt "post type singular name"
+msgid "Presentation"
+msgstr ""
+
+#: lib/php/resources.register.php:498
+msgctxt "Presentation"
+msgid "Add New"
+msgstr ""
+
+#: lib/php/resources.register.php:500
+msgid "Edit Presentation"
+msgstr ""
+
+#: lib/php/resources.register.php:501
+msgid "New Presentation"
+msgstr ""
+
+#: lib/php/resources.register.php:502
+msgid "View Presentation"
+msgstr ""
+
+#: lib/php/resources.register.php:503
+msgid "Search Presentations"
+msgstr ""
+
+#: lib/php/resources.register.php:566
+msgid "Select presentation's speaker(s)"
+msgstr ""
+
+#: lib/php/resources.register.php:567
+msgid "Add Speaker"
+msgstr ""
+
+#: lib/php/resources.register.php:569 lib/php/resources.register.php:612
+msgid "Add New Speaker"
+msgstr ""
+
+#: lib/php/resources.register.php:579
+msgid "Document location"
+msgstr ""
+
+#: lib/php/resources.register.php:580
+msgid "Attach document"
+msgstr ""
+
+#: lib/php/resources.register.php:591
+msgid "Show related presentations"
+msgstr ""
+
+#: lib/php/resources.register.php:596
+msgid "Add Speakers"
+msgstr ""
+
+#: lib/php/resources.register.php:596
+msgid "Presentation Speakers"
+msgstr ""
+
+#: lib/php/resources.register.php:598
+msgid "Attach this Presentation to Conference"
+msgstr ""
+
+#: lib/php/resources.register.php:598 lib/php/resources.register.php:600
+msgid "Presentation's Conferences"
+msgstr ""
+
+#: lib/php/resources.register.php:600
+msgid "Attach Presentation Documents:"
+msgstr ""
+
+#: lib/php/resources.register.php:601 lib/php/resources.register.php:662
+msgid "Speaker Settings"
+msgstr ""
+
+#: lib/php/resources.register.php:613
+msgid "Edit Speaker"
+msgstr ""
+
+#: lib/php/resources.register.php:614
+msgid "New Speaker"
+msgstr ""
+
+#: lib/php/resources.register.php:615
+msgid "View Speaker"
+msgstr ""
+
+#: lib/php/resources.register.php:616
+msgid "Search Speakers"
+msgstr ""
+
+#: lib/php/resources.register.php:635
+msgid "To add speaker photo please "
+msgstr ""
+
+#: lib/php/resources.register.php:659
+msgid "Add Speaker Aditional Info"
+msgstr ""
+
+#: lib/php/resources.register.php:660
+msgid "Attach Speaker to Presentation"
+msgstr ""
+
+#: lib/php/resources.register.php:660
+msgid "Speaker's Presentations"
+msgstr ""
+
+#: lib/php/resources.register.php:674
+msgid "Edit Slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:675
+msgid "New Slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:676
+msgid "View Slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:677
+msgid "Search Slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:759
+msgid "Select Sponsor"
+msgstr ""
+
+#: lib/php/resources.register.php:760
+msgid "Select Exhibitor"
+msgstr ""
+
+#: lib/php/resources.register.php:762
+msgid "Select Speaker"
+msgstr ""
+
+#: lib/php/resources.register.php:765
+msgid "Select type of resource"
+msgstr ""
+
+#: lib/php/resources.register.php:766
+msgid "Select Resource"
+msgstr ""
+
+#: lib/php/resources.register.php:767
+msgid "Resource Title"
+msgstr ""
+
+#: lib/php/resources.register.php:767
+msgid "If title is not completed, post title will be used)."
+msgstr ""
+
+#: lib/php/resources.register.php:768
+msgid "Resource Description"
+msgstr ""
+
+#: lib/php/resources.register.php:768
+msgid ""
+"If not completed description, will be used post excerpt <br />(<strong>first "
+"180 chars</strong>), if not completed post excerpt, will be used <br />post "
+"content (<strong>first 180 chars</strong>)."
+msgstr ""
+
+#: lib/php/resources.register.php:769
+msgid "Set image path"
+msgstr ""
+
+#: lib/php/resources.register.php:770
+msgid "Custom URL"
+msgstr ""
+
+#: lib/php/resources.register.php:770
+msgid ""
+"If this field is not set then \"Read More\" link will link to the selected "
+"custom post(ignore the hint for simple images))."
+msgstr ""
+
+#: lib/php/resources.register.php:771
+msgid "Add to slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:774
+msgid "Compose slideshow (drag and drop items to rearange position)"
+msgstr ""
+
+#: lib/php/resources.register.php:774
+msgid "Slideshow items"
+msgstr ""
+
+#: lib/php/resources.register.php:779
+msgid "Manage Slideshow"
+msgstr ""
+
+#: lib/php/resources.register.php:796
+msgid "Show related posts"
+msgstr ""
+
+#: lib/php/resources.register.php:797
+msgid "Show post meta"
+msgstr ""
+
+#: lib/php/resources.register.php:799 lib/php/resources.register.php:819
+msgid "Show author box"
+msgstr ""
+
+#: lib/php/resources.register.php:803
+msgid "Post Settings"
+msgstr ""
+
+#: lib/php/resources.register.php:817
+msgid "Show page meta"
+msgstr ""
+
+#: lib/php/resources.register.php:823
+msgid "Page Settings"
+msgstr ""
+
+#: lib/php/resources.register.php:834
+msgid "Edit Testimonial"
+msgstr ""
+
+#: lib/php/resources.register.php:835
+msgid "New Testimonial"
+msgstr ""
+
+#: lib/php/resources.register.php:836
+msgid "View Testimonial"
+msgstr ""
+
+#: lib/php/resources.register.php:837
+msgid "Search Testimonial"
+msgstr ""
+
+#: lib/php/resources.register.php:850
+msgid "Author name"
+msgstr ""
+
+#: lib/php/resources.register.php:851
+msgid "Author title"
+msgstr ""
+
+#: lib/php/resources.register.php:863
+msgid "Add Testimonial Aditional Info"
+msgstr ""
+
+#: lib/php/resources.register.php:864
+msgid "Attach Testimonial to Conference"
+msgstr ""
+
+#: lib/php/resources.register.php:864
+msgid "Testimonial's Conferences"
+msgstr ""
+
+#: lib/php/fields.class.php:257
+msgid "Yes"
+msgstr ""
+
+#: lib/php/fields.class.php:258
+msgid "No"
+msgstr ""
+
+#: lib/php/fields.class.php:348
+msgid " Attached "
+msgstr ""
+
+#: lib/php/fields.class.php:548
+msgid "January"
+msgstr ""
+
+#: lib/php/fields.class.php:549
+msgid "February"
+msgstr ""
+
+#: lib/php/fields.class.php:550
+msgid "March"
+msgstr ""
+
+#: lib/php/fields.class.php:551
+msgid "April"
+msgstr ""
+
+#: lib/php/fields.class.php:552
+msgid "May"
+msgstr ""
+
+#: lib/php/fields.class.php:553
+msgid "June"
+msgstr ""
+
+#: lib/php/fields.class.php:554
+msgid "July"
+msgstr ""
+
+#: lib/php/fields.class.php:555
+msgid "August"
+msgstr ""
+
+#: lib/php/fields.class.php:556
+msgid "September"
+msgstr ""
+
+#: lib/php/fields.class.php:557
+msgid "October"
+msgstr ""
+
+#: lib/php/fields.class.php:558
+msgid "November"
+msgstr ""
+
+#: lib/php/fields.class.php:559
+msgid "December"
+msgstr ""
+
+#: lib/php/tweets.class.php:105
+msgid "Please set Twitter user name !!!"
+msgstr ""
+
+#: lib/php/actions.register.php:146
+msgid "Main Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:155
+msgid "Special area for small icons"
+msgstr ""
+
+#: lib/php/actions.register.php:175
+msgid "Front Page Top Left Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:183
+msgid "Front Page Top Middle Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:191
+msgid "Front Page Top Right Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:200
+msgid "Front Page Bottom Left Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:208
+msgid "Front Page Bottom Middle Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:216
+msgid "Front Page Bottom Right Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:226
+msgid "Footer First Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:234
+msgid "Footer Second Sidebar"
+msgstr ""
+
+#: lib/php/actions.register.php:242
+msgid "Footer Third Sidebar"
+msgstr ""
+
+#: lib/php/map.class.php:27
+msgid "Phone 1 "
+msgstr ""
+
+#: lib/php/map.class.php:28
+msgid "Phone 2 "
+msgstr ""
+
+#: lib/php/map.class.php:29
+msgid "Fax "
+msgstr ""
+
+#: lib/php/map.class.php:30
+msgid "Email "
+msgstr ""
+
+#: lib/php/map.class.php:270
+msgid "Title Info"
+msgstr ""
+
+#: lib/php/map.class.php:277
+msgid "Description Info "
+msgstr ""
+
+#: lib/php/map.class.php:284
+msgid "Contact phone 1"
+msgstr ""
+
+#: lib/php/map.class.php:290
+msgid "Contact phone 2"
+msgstr ""
+
+#: lib/php/map.class.php:308
+msgid "Aditional Info"
+msgstr ""
+
+#: lib/php/map.class.php:320
+msgid "Hide Contact form"
+msgstr ""
+
+#: lib/php/text.class.php:41
+msgid "Font Family"
+msgstr ""
+
+#: lib/php/text.class.php:42
+msgid "Font Size"
+msgstr ""
+
+#: lib/php/text.class.php:43
+msgid "Font Weight"
+msgstr ""
+
+#: lib/php/text.class.php:44
+msgid "Preview Text"
+msgstr ""
+
+#: lib/php/options.class.php:152
+msgid "Version"
+msgstr ""
+
+#: lib/php/options.class.php:407
+msgid "version"
+msgstr ""
+
+#: lib/php/options.class.php:407
+msgid "is available, please update now."
+msgstr ""
+
+#: archive.php:17
+msgid ""
+"<h2 class=\"entry-title page-title archive\">Daily Archives: <span>%s</"
+"span></h2>"
+msgstr ""
+
+#: archive.php:19
+msgid ""
+"<h2 class=\"entry-title page-title archive\">Monthly Archives: <span>%s</"
+"span></h2>"
+msgstr ""
+
+#: archive.php:21
+msgid ""
+"<h2 class=\"entry-title page-title archive\">Yearly Archives: <span>%s</"
+"span></h2>"
+msgstr ""
+
+#: archive.php:23
+msgid "<h2 class=\"entry-title \">Speakers</h2>"
+msgstr ""
+
+#: archive.php:25
+msgid "<h2 class=\"entry-title \">Presentations</h2>"
+msgstr ""
+
+#: archive.php:27
+msgid "<h2 class=\"entry-title \">Conferences</h2>"
+msgstr ""
+
+#: archive.php:29
+msgid "<h2 class=\"entry-title \">Testimonials</h2>"
+msgstr ""
+
+#: social-sharing.php:15
+msgid "Tweet this!"
+msgstr ""
+
+#: social-sharing.php:16
+msgid "Share on Facebook"
+msgstr ""
+
+#: social-sharing.php:17
+msgid "Stumble it"
+msgstr ""
+
+#: social-sharing.php:18
+msgid "Share on Reddit"
+msgstr ""
+
+#: social-sharing.php:19
+msgid "Digg it"
+msgstr ""
+
+#: social-sharing.php:20
+msgid "Add to Delicious!"
+msgstr ""
+
+#: social-sharing.php:21
+msgid "Add to Technorati"
+msgstr ""
+
+#: social-sharing.php:22
+msgid "Add to Google"
+msgstr ""
+
+#: social-sharing.php:23
+msgid "Add to Myspace"
+msgstr ""
+
+#: social-sharing.php:24
+msgid "Subscribe to RSS"
+msgstr ""
+
+#: signup.php:2
+msgid "Please sign in using the form below"
+msgstr ""
+
+#: signup.php:10
+msgid "Username"
+msgstr ""
+
+#: signup.php:12
+msgid "Password"
+msgstr ""
+
+#: signup.php:14
+msgid "Remember Me"
+msgstr ""
+
+#: signup.php:17
+msgid "Sign in"
+msgstr ""
+
+#: signup.php:25
+msgid "Lost your password?"
+msgstr ""
+
+#: signup.php:26
+msgid "close"
+msgstr ""
+
+#: breadcrumbs.php:6
+msgid "You are here"
+msgstr ""
+
+#: single-presentation.php:68
+msgid "Presentation speakers"
+msgstr ""
+
+#: single-presentation.php:93
+msgid "Download presentation"
+msgstr ""
+
+#: header.php:200
+msgid "Logout"
+msgstr ""
+
+#: header.php:206
+msgid "Log in"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Evento"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://freetotry.me/evento"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Our themes are using the 960 grid system while the mark-up is powered by a "
+"strong css framework. ProEvento Theme has been tested in all modern browsers "
+"- IE 7 , IE 8, IE 9 , Opera, Firefox, Safari and Chrome. Key features of the "
+"template - infinit Color Schemes, Background Styling Options, Custom Text-"
+"based Logos, Social Media Links, Multiple Multi-Level jQuery Menus, Full-"
+"control Image Slider and post slider,  Custom Front Page Layout, Custom \t "
+"Widgets : Twitter Widget, Contact Form Widget, Flickr Widget and others, "
+"Custom Page Templates, Hide/Show Meta Elements for each particular post, "
+"Featured Image, Built-in Social Sharing, About the author box, Built-in "
+"Related Posts, Nested Comments, 100+ Shortcodes, Unlimited sidebars, "
+"Localization support."
+msgstr ""
+

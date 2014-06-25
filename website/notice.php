@@ -1,0 +1,1 @@
+<center>Paper submission would start soon, please wait for next announcement.</center>
