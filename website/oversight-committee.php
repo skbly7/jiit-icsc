@@ -1,7 +1,3 @@
-<?php
-$url="http://okrdx.com/files/icsc/index.php?i=1";
-header('Location: ' . $url);
-?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
     <head>
@@ -31,7 +27,7 @@ header('Location: ' . $url);
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-41031324-1', 'jiit.com');
+  ga('create', 'UA-41031324-1', 'jiit.ac.in');
   ga('send', 'pageview');
 
 </script>
@@ -164,19 +160,7 @@ header('Location: ' . $url);
 				<div class="b_page clearfix">
 					<div class="b w_940">
 <?php include "slider.php" ?>						
-<!--	<div id="wowslider-container1">
-	<div class="ws_images"><ul>
-<li><img src="images/data1/images/icsc2.jpg" alt="icsc" title="Starting from December 2015 this conference would be held once in every two years." id="wows1_0"/></li>
-<li><img src="images/data1/images/icsc1.jpg" alt="icsc" title="JIIT has been ranked No 1 Engineering College in Delhi NCR by Hindustan Times Campus Survey, 27 February 2015 edition." id="wows1_1"/></li>
-<li><img src="images/data1/images/icsc.jpg" alt="icsc" title="The conference (record no.: 31522) will witness lectures from eminent leading international speakers." id="wows1_2"/></li>
-</ul></div>
-<div class="ws_bullets"><div>
-<a href="#" title="Biennial Conference">1</a>
-<a href="#" title="JIIT">2</a>
-<a href="#" title="Speakers">3</a>
-</div></div>
-	<div class="ws_shadow"></div>
-	</div>-->
+
 <br/>
 <marquee behavior="alternate" style="font-family:calibri;font-size:15px;margin-top:-10px;" scrollamount="2"><b><?php $homepage = file_get_contents('notice.php');echo $homepage; ?></b></marquee>
 
@@ -213,17 +197,17 @@ header('Location: ' . $url);
                                 <ul class="xoxo">
                                     <li class="widget">
                                         <div class="b_text">
-                                            <p>1) <strong>Prof. Shiban K. Koul</strong><br />
-CARE, Indian Institute of Technology Delhi, New Delhi</p>
-<p>2) <strong>Prof. Ranjan K. Mallik</strong><br />
-EE Dept., Indian Institute of Technology Delhi, New Delhi</p>
-<p>3) <strong>Prof. Shankar Prakriya</strong><br />
-EE Dept., Indian Institute of Technology Delhi, New Delhi</p>
-<p>4) <strong>Prof. Ananjan Basu</strong><br />
-CARE, Indian Institute of Technology Delhi, New Delhi</p>
-<p>5) <strong>Mr. Piyush K. Gupta</strong><br />
-C-DoT, MCIT, New Delhi</p>
-                                                                                    </div>
+                                            <p>1) <strong>Prof. Rranjan K. mallik</strong><br />
+FIEEE, Fellow of the Institute of Electrical and Electronics Engineers</p>
+<p>2) <strong>Prof. Shankar Prakriya</strong><br />
+SMIEEE, Senior Member of the Institute of Electrical and Electronics Engineers</p>
+<p>3) <strong>Prof. Abdul Q. Ansari</strong><br />
+SMIEEE, Senior Member of the Institute of Electrical and Electronics Engineers</p>
+<p>4) <strong>Prof. M. N. Hoda</strong><br />
+SMIEEE, Senior Member of the Institute of Electrical and Electronics Engineers</p>
+<p>5) <strong>Prof. Mini S. Thomas</strong><br />
+SMIEEE, Senior Member of the Institute of Electrical and Electronics Engineers</p>
+										</div>
                                     </li>
                                 </ul>
 
@@ -236,7 +220,7 @@ C-DoT, MCIT, New Delhi</p>
         </div>
 
         <!-- right sidebar -->
-	        <div id="primary"><!--right side--><div class="b w_300"><ul class="xoxo"><li id="registration-4" class="widget"><div class="registration"><p>2015 - ICSC</p><p class="desc">December 12 - 14, 2015</p><p class="exc">Jaypee Institute of Information Technology</p><p class="button hover blue register no_float"><a href="reg.php">register for the event<span>&nbsp;</span></a></p><div class="end">&nbsp;</div><!--ads the end background--></div></li></ul></div></div>	
+	        <div id="primary"><!--right side--><div class="b w_300"><ul class="xoxo"><li id="registration-4" class="widget"><div class="registration"><p>2015 - ICSC</p><p class="desc">March 16 - 18, 2015</p><p class="exc">Jaypee Institute of Information Technology</p><p class="button hover blue register no_float"><a href="reg.php">register for the event<span>&nbsp;</span></a></p><div class="end">&nbsp;</div><!--ads the end background--></div></li></ul></div></div>	
 
     </div>
 </div>
