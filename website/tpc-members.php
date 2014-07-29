@@ -203,6 +203,26 @@ $college=array("VSB-Technical University of Ostrava","National Technical Univers
 				"Indian Institute of Technology Delhi","Indian Institute of Technology Delhi","Indian Institute of Technology Roorkee","Indian Institute of Technology Hyderabad",
 				"Delhi University Delhi","VSB-Technical University of Ostrava","National Technical University of Ukraine",
 				"Jaypee University of Information Technology","Jaypee University of Engineering & Technology");
+$arr=array(
+"Prof. S. Prasad","Northeastern University","Prof. Jianping Yao","University of Ottawa",
+"Prof. Ke Wu, Ecole Polytechnique","University of Montreal, Canada",
+"Prof. Jaromir Pistora","VSB-Technical University of Ostrava",
+"Prof. K. Sunduchkov","National Technical University of Ukraine, UKRAINE",
+"Dr. Alejandro Duenas Jimenez","Universidad De Guadalajara, Mexico","Prof. Surendra Prasad","IIT Delhi","Prof. R. Bahl","IIT Delhi",
+"Prof. Vinod Kumar","IIT Roorkee",
+"Prof. A. K. Saxena","IIT Roorkee","Prof. R.S. Anand","IIT Roorkee",
+"Prof. Arun Kumar","IIT Delhi","Prof. Devi Chadha","IIT Delhi",
+"Prof. V. K. Jain","IIT Delhi","Prof. Shankar Prakriya","IIT Delhi",
+"Prof. Karmeshu","JNU","Prof. Mridula Gupta","DU Delhi ",
+"Sh. Chandrasekaran Natarajan","DARE, Bangalore","Prof. Krishna Gopal","JIIT Noida",
+"Prof. Sunil Bhooshan","JUIT, Waknaghat","Prof. Rajiv Saxena","JUET, Guna",
+"Prof. B.K. Mohanty","JUET, Guna","Prof. Bani Singh","JIIT Noida ",
+"Prof. Samir Dev Gupta","JIIT Noida ","Dr. Vikram Karwal","JIIT Noida ",
+"Dr. Jitendra Mohan","JIIT Noida","Dr. Sajai Vir Singh","JIIT Noida",
+"Dr. Vivek Dwivedi","JIIT Noida","Dr. Manish Kumar","JIIT Noida ",
+"Dr. Ashish Goel","JIIT Noida","Dr. Vineet Khandelwal","JIIT Noida",
+"Dr. Rajesh Dubey","JIIT Noida","Dr. Vijay Khare","JIIT Noida",
+"Dr. Vipin Balyan","JIIT Noida","Dr. Jasmine Saini","JIIT Noida");
 ?>                                
                                 <!-- post content-->
                                 <ul class="xoxo">
@@ -211,9 +231,9 @@ $college=array("VSB-Technical University of Ostrava","National Technical Univers
                                             <p>The Technical Program Committee members are :</p>
 											<?php
 											
-											for($i=1;$i<=count($names);$i++)
+											for($i=1;$i<=count($arr);$i=$i+2)
 											{
-											echo '<p>'.$i.'. <b>'.$names[$i-1].'</b><br>'.$college[$i-1].'</p>';											
+											echo '<p>'.ceil($i/2).'. <b>'.$arr[$i-1].'</b><br>'.$arr[$i].'</p>';											
 											}
 											?>
                                                                                     </div>
