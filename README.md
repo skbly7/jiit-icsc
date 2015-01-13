@@ -16,3 +16,6 @@ Now open-sourced so that anyone can report problem, or anyone can contribute.
 Facebook Group : https://www.facebook.com/groups/jiiticsc2013/<br>
 Facebook Page of ICSC 3013 : https://www.facebook.com/jiiticsc2013
 </h4>
+
+
+For further updates on rep : https://github.com/gnischay2/JIIT-ICSC-2015
